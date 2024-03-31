@@ -1,1 +1,11 @@
 Noi dung them boi main 
+git branch
+git remote 
+git remote -v
+git branch -a
+git push origin main
+git pull origin main 
+git log --oneline origin/tennhanh
+git fetch
+git fetch origin
+git push --delete 
